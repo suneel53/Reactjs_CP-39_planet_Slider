@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.main-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  min-height: 100vh;
+  padding: 50px;
+}
+.head {
+  font-size: 32px;
+  margin: 0px;
+  color: #05acff;
+  text-align: center;
+}

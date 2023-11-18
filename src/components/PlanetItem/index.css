@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  width: 250px;
+  height: 260px;
+  margin-bottom: 20px;
+}
+.hed {
+  font-size: 26px;
+  margin: 0px;
+  color: white;
+}
+.pp {
+  color: white;
+}
